@@ -1,7 +1,3 @@
----
-title: install_mine
-subtitle: Install your Stata ado files under development
----
 
 
 ## Usage
