@@ -1,4 +1,4 @@
-
+# install_mine: Stata command to install your personal programs
 
 ## Usage
 
